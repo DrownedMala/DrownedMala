@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Simone, aka @DrownedMala
 - 👀 I’m interested in Biology and biotech, but also in bioinformatics and some programming 
-- 🌱 I’m currently learning Biopython and python more in general!
-- 💞️ I’m looking to collaborate on nothing for the moment ^-^
-- 📫 How to reach me ? I do not know that myself :O
+- 🌱 I’m currently trying to learn R, Biopython and python more in general!
 
 <!---
 DrownedMala/DrownedMala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
